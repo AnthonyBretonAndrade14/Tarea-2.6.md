@@ -1,4 +1,4 @@
-# Tarea-2.7.md
+# Tarea-2.6.md
 Anthony Breton Andrade 20211757
 
 
