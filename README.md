@@ -1,5 +1,10 @@
 # Tarea-2.7.md
 Anthony Breton Andrade 20211757
+
+
+
+
+
 RISC-V es una arquitectura de procesador de código abierto que está ganando rápidamente terreno en la industria de los microprocesadores. A continuación, se presentan algunas tendencias que se pueden esperar en los próximos 5 años en relación con RISC-V:
 
 Aumento de la adopción en el mercado de los microprocesadores: La adopción de RISC-V en el mercado de los microprocesadores se ha acelerado en los últimos años. Se espera que esta tendencia continúe en los próximos 5 años a medida que más empresas adopten la tecnología y desarrollen productos basados en ella.
